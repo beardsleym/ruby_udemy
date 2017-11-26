@@ -1,0 +1,6 @@
+{"email":"matt@beardsley.com.au","name":"matt","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"john@doe.com.au","name":"John","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"tim@tim.com","name":"tim","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"jim@gmail.com","name":"james","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"rex@rexy.com","name":"rex","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"harris@example.com","name":"harris","permissions":{"accounts":"read","policies":"write","users":"write"}}
